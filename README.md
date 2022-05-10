@@ -14,7 +14,7 @@ De programmeer talen die wij gebruikt hebben tijdens het bouwen van ons project 
 
 Voer de SQL queries uit in je MySQL table en zet de bestanden in je htcdocs. Daarna kan je hem via je localhost gebruiken.
 
-**Talen**
+**Programmeertalen**
 
 • HTML (Front End)
 
@@ -28,22 +28,19 @@ Voer de SQL queries uit in je MySQL table en zet de bestanden in je htcdocs. Daa
 
 • MySQL (Back End)
 
-Bijdragende
+**Bijdragende**
 
 Brian, Batuhan, Erhan & Ubada
 
 Brian: be.langley@icloud.com
 
-
 Batuhan: b.yumak70@gmail.com
-
 
 Erhan: erhancitil94@gmail.com
 
-
 Ubada: ubadara.101@gmail.com
 
-Github accounts
+**Github accounts**
 
 https://github.com/brianlangley
 
